@@ -125,7 +125,7 @@ remapB = function(center = c(104.114129,37.550339),
     mapStyleData = "map.setMapStyle({
     styleJson: [
           {
-                    'featureType': 'land',     #调整土地颜色
+                    'featureType': 'land',
                     'elementType': 'geometry',
                     'stylers': {
                               'color': '#081734'
